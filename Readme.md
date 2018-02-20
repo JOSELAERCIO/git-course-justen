@@ -1,6 +1,6 @@
 
-#Github
+# Github
 Arquivo da aula inicial de Git e GitHub
 
-Gostou do curso? Quer mais? Ajude com uma doaÃÃo, atÃ©um cafÃ©vÃlido! =)
+Gostou do curso? Quer mais? Ajude com uma doaï¿½ï¿½o, atÃ©um cafÃ©vï¿½lido! =)
 William Justen
